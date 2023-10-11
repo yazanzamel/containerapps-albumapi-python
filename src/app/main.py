@@ -22,7 +22,7 @@ class Album():
          self.image_url = image_url
 
 albums = [ 
-    Album(1, "You, Me and an App Id", "Daprize", 10.99, "https://aka.ms/albums-daprlogo"),
+    Album(1, "Asus laptop", "Daprize", 10.99, "https://aka.ms/albums-daprlogo"),
     Album(2, "Seven Revision Army", "The Blue-Green Stripes", 13.99, "https://aka.ms/albums-containerappslogo"),
     Album(3, "Scale It Up", "KEDA Club", 13.99, "https://aka.ms/albums-kedalogo"),
     Album(4, "Lost in Translation", "MegaDNS", 12.99,"https://aka.ms/albums-envoylogo"),
